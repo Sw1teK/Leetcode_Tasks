@@ -1,6 +1,0 @@
-C:\Users\Danik\RiderProjects\Leetcode tasks\Leetcode tasks\bin\Debug\Leetcode_tasks.exe
-C:\Users\Danik\RiderProjects\Leetcode tasks\Leetcode tasks\bin\Debug\Leetcode_tasks.pdb
-C:\Users\Danik\RiderProjects\Leetcode tasks\Leetcode tasks\obj\Debug\Leetcode tasks.csprojAssemblyReference.cache
-C:\Users\Danik\RiderProjects\Leetcode tasks\Leetcode tasks\obj\Debug\Leetcode tasks.csproj.CoreCompileInputs.cache
-C:\Users\Danik\RiderProjects\Leetcode tasks\Leetcode tasks\obj\Debug\Leetcode_tasks.exe
-C:\Users\Danik\RiderProjects\Leetcode tasks\Leetcode tasks\obj\Debug\Leetcode_tasks.pdb
