@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Security.Authentication.ExtendedProtection;
+using Leetcode_tasks.Danikthebest228;
 
 namespace Leetcode_tasks
 {
@@ -7,6 +8,8 @@ namespace Leetcode_tasks
     {
         public static void Main(string[] args)
         {
+            var a = new Danik228();
+            a.RemoveDuplicates()
             int[] array = new int[7];
             int k = 1;
             Console.Write("Введите число: ");
